@@ -26,6 +26,8 @@
 # 이미지 바탕화면 저장
 - File>Export>save for web>
 
+# 화면이동 --> space bar + 화면을 드래그
 
+# 선택영역 없애기 --> ctrl + D marquee tool
 ---
 # 
