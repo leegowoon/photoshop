@@ -18,4 +18,14 @@
 - ctrl + G --> 만들기
 - ctrl + shift + G --> 그룹풀기
 
+# 이미지 바탕화면 저장
+
 # trim --> 사진 주위에 투명한 부분 정리하여 사진크기에 맞추기 (image>Trim)
+- transparent pixels --> ok
+
+# 이미지 바탕화면 저장
+- File>Export>save for web>
+
+
+---
+# 
