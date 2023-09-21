@@ -30,4 +30,11 @@
 
 # 선택영역 없애기 --> ctrl + D marquee tool
 ---
-# 
+# 복사하기
+- alt + shift + 이동
+- 레이어 연속선택 : 맨처음선택하고 shift + 맨끝 선택
+
+# grid
+- 웹사이트 시안 grid
+
+- 
