@@ -28,7 +28,7 @@
 
 # 화면이동 --> space bar + 화면을 드래그
 
-# 선택영역 없애기 --> ctrl + D marquee tool
+# 선택영역 없애기 --> ctrl + D (marquee tool)
 ---
 # 복사하기
 - alt + shift + 이동
@@ -37,4 +37,23 @@
 # grid
 - 웹사이트 시안 grid
 
-- 
+---
+
+# 패턴만들기
+1) file>new
+2) 도형(사각형)만들기>사이즈조절(w100 h1)>색넣기
+3) 끌어서 맨밑으로>background레이어 숨기기
+4) Image>Trim>Transparent Pixels>ok
+5) Edit>Define pattern>ok
+
+#
+select>modify>contract
+
+#동그라미만들기
+1) 도형(동그라미)만들기>
+
+#도형중앙
+marquee tool>
+#선택영역(반짝)
+ctrl+썸네일 
+
