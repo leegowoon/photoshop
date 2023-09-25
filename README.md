@@ -52,8 +52,13 @@ select>modify>contract
 #동그라미만들기
 1) 도형(동그라미)만들기>
 
-#도형중앙
-marquee tool>
+# 도형중앙으로 오게하기
+- marquee tool로 영역지정>move tool선택>
 #선택영역(반짝)
 ctrl+썸네일 
 
+
+
+---
+< 일러스트 >
+# 도형복사 : alt+이동
