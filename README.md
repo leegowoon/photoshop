@@ -55,8 +55,15 @@ select>modify>contract
 # 도형중앙으로 오게하기
 - marquee tool로 영역지정>move tool선택>
 #선택영역(반짝)
-ctrl+썸네일 
-
+ctrl+썸네일
+---
+9/26(화)
+# 글자띄어쓰기
+- shift+space bar
+# 도형 한쪽면만 조절할때
+- shift+마우스
+# 도형 테두리만 남게할때
+- 레이어더블클릭(Layer Style)>Stroke> position:outside > fill 0% 
 
 
 ---
