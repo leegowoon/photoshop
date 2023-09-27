@@ -64,6 +64,13 @@ ctrl+썸네일
 - shift+마우스
 # 도형 테두리만 남게할때
 - 레이어더블클릭(Layer Style)>Stroke> position:outside > fill 0% 
+---
+9/27(수)
+# 카메라 로고만들기
+1) 동그라미만들기
+2) ![image](https://github.com/leegowoon/photoshop/assets/145514701/5e8e1ed0-19f3-4c3e-9235-df12ed4a3483) 선택 > ![image](https://github.com/leegowoon/photoshop/assets/145514701/2871c905-0c6a-4f1d-84bd-1393bd08b578) 생성됨
+3. ctrl+썸네일(선택영역잡힘) > select>modify>contract> pixel설정 > ctrl+i
+   (레이어선택> Layer Style > Stroke> position> inside or outside)
 
 
 ---
