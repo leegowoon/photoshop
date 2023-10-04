@@ -78,8 +78,14 @@ ctrl+썸네일
 < 일러스트 >
 # 도형복사 : alt+이동
 # 도형복사바로위에하기 : ctrl+c > ctrl+F / 행동반복하기 : ctrl+D
-# 도형
 # 잠그기
 - ctrl+2
 - ctrl+alt+2
+
+# 고양이꼬리만들기 10/4(수)
+1) 선을 면으로 바꾸는 법 : Object > Path > Outline stroke
+2) 면나누기 : pentool로 영역나누기 > 모두그룹화하기 > Pathfinder-Divide(※pathfinder는 그룹화되서 다시풀어주기) > 그룹풀기
+
+# refla
+
 
