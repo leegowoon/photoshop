@@ -77,5 +77,9 @@ ctrl+썸네일
 ---
 < 일러스트 >
 # 도형복사 : alt+이동
-# 도형복사바로위에하기 : ctrl+c > ctrl+F
+# 도형복사바로위에하기 : ctrl+c > ctrl+F / 행동반복하기 : ctrl+D
 # 도형
+# 잠그기
+- ctrl+2
+- ctrl+alt+2
+
