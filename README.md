@@ -31,7 +31,7 @@
 # 선택영역 없애기 --> ctrl + D (marquee tool)
 ---
 # 복사하기
-- alt + shift + 이동
+- alt + shift + 이동(ctrl+t X)
 - 레이어 연속선택 : 맨처음선택하고 shift + 맨끝 선택
 
 # grid
@@ -71,8 +71,11 @@ ctrl+썸네일
 2) ![image](https://github.com/leegowoon/photoshop/assets/145514701/5e8e1ed0-19f3-4c3e-9235-df12ed4a3483) 선택 > ![image](https://github.com/leegowoon/photoshop/assets/145514701/2871c905-0c6a-4f1d-84bd-1393bd08b578) 생성됨
 3. ctrl+썸네일(선택영역잡힘) > select>modify>contract> pixel설정 > ctrl+i
    (레이어선택> Layer Style > Stroke> position> inside or outside)
-
-
+---
+10/04(수)
+# background 배경색 alt+delete
 ---
 < 일러스트 >
 # 도형복사 : alt+이동
+# 도형복사바로위에하기 : ctrl+c > ctrl+F
+# 도형
