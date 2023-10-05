@@ -86,6 +86,11 @@ ctrl+썸네일
 1) 선을 면으로 바꾸는 법 : Object > Path > Outline stroke
 2) 면나누기 : pentool로 영역나누기 > 모두그룹화하기 > Pathfinder-Divide(※pathfinder는 그룹화되서 다시풀어주기) > 그룹풀기
 
-# refla
+# 지그재그모양만들기
+- 도형만들기 > Effect > Distort&transform > zigzag 
+
+
+# reflect tool
+
 
 
